@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110f0b15-f55a-4bf2-973e-073c3747e80d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuiInterview" beforeDir="false" afterPath="$PROJECT_DIR$/SuiInterview" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SuiInterview/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/SuiInterview/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,8 +49,8 @@
         <entry file="file://$PROJECT_DIR$/SuiInterview/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-714">
-                <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="93" />
+              <first_editor relative-caret-position="108">
+                <caret line="139" column="16" lean-forward="true" selection-start-line="139" selection-start-column="16" selection-end-line="139" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -136,6 +137,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
@@ -195,12 +197,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568824486057</updated>
-      <workItem from="1568824489580" duration="815000" />
+      <workItem from="1568824489580" duration="1100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="815000" />
+    <option name="totallyTimeSpent" value="1100000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="23" width="1399" height="877" extended-state="0" />
@@ -261,8 +263,8 @@
     <entry file="file://$PROJECT_DIR$/SuiInterview/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-714">
-            <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="93" />
+          <first_editor relative-caret-position="108">
+            <caret line="139" column="16" lean-forward="true" selection-start-line="139" selection-start-column="16" selection-end-line="139" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
